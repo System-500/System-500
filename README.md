@@ -1,8 +1,6 @@
-## Hi there 👋
 
 # 💫 About Me:
-Third-year computer science student 
-
+Third-year computer science student from Poland
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:s10176@pollub.edu.pl) 
