@@ -43,6 +43,6 @@ Third-year computer science student 💻<br>I love creating new things ⚡
 **An electric vehicle rental and tracking system.**  
 This platform allows users to rent electric scooters, report malfunctions, and assess the technical condition of the fleet. The system ecosystem includes:
 
-*   **[ScooterAPI](https://github.com/SRTEV/ScooterAPI):** An API simulation engine for electric scooters, built with `Flutter`.
+*   **[ScooterAPI](https://github.com/SRTEV/ScooterAPI):** An API simulation engine for electric scooters.   `Flutter` 
 *   **Main Application:** A mobile app designed with distinct user roles for **Customers** and **Repair Technicians**.
 *   **Admin Panel:** A comprehensive dashboard for real-time fleet management and maintenance monitoring.
