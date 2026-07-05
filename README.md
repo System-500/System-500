@@ -39,4 +39,4 @@ Third-year computer science student 💻<br>I love creating new things ⚡
 [![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=System-500&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&cache_seconds=3600)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🚀 In development:
-- **[ScooterAPI](https://github.com/SRTEV/ScooterAPI)** `Flutter` — API simulation for electric scooter sharing system.
+- **[ScooterAPI](https://github.com/SRTEV/ScooterAPI)** `Flutter` —  An API for simulating the operation of electric scooters.
