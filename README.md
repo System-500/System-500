@@ -31,8 +31,8 @@ Third-year computer science student 💻<br>I love creating new things ⚡
 # Others:
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=System-500&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=System-500&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=System-500&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+[![System-500's GitHub Stats](https://github-readme-stats.shion.dev/api?username=System-500&theme=dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=3600)](https://github.com/anuraghazra/github-readme-stats)
 
+[![System-500's Streak Stats](https://streak-stats.demolab.com/?user=System-500&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=System-500&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&cache_seconds=3600)](https://github.com/anuraghazra/github-readme-stats)
