@@ -34,7 +34,6 @@ Third-year computer science student 💻<br>I love creating new things ⚡
 # 📊 GitHub Stats:
 [![System-500's GitHub Stats](https://github-readme-stats.shion.dev/api?username=System-500&theme=dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=3600)](https://github.com/anuraghazra/github-readme-stats)
 
-[![System-500's Streak Stats](https://streak-stats.demolab.com/?user=System-500&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=System-500&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&cache_seconds=3600)](https://github.com/anuraghazra/github-readme-stats)
 
