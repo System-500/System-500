@@ -44,5 +44,7 @@ Third-year computer science student 💻<br>I love creating new things ⚡
 This platform allows users to rent electric scooters, report malfunctions, and assess the technical condition of the fleet. The system ecosystem includes:
 
 *   **[ScooterAPI](https://github.com/SRTEV/ScooterAPI):** Electric Scooter Simulation API for Mobile Phones.   `Flutter` 
-*   **Main Application:** A mobile app designed with distinct user roles for **Customers** and **Repair Technicians**.
-*   **Admin Panel:** A comprehensive dashboard for real-time fleet management and maintenance monitoring.
+*   **[Main Application](https://github.com/SRTEV/MainAPP):** A mobile app designed with distinct user roles for **Customers** and **Repair Technicians. `Flutter`
+* **Admin Panel**: A comprehensive dashboard for real-time fleet management and maintenance monitoring.
+    * **[Frontend](https://github.com/SRTEV/WebFrontend)** `React`
+    * **[Backend](https://github.com/SRTEV/WebBackend)** The backend also serves as an API for secure communication between the main app and the database `.Net`
